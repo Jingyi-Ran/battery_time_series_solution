@@ -1,1 +1,1 @@
-# battery_time_series_solution
+## The frequencies and decay times are solved using python from the battery time series datasets. The .py file includes all the functions and modules I built for the project. The Notebook shows the complete problem-solving process including data visualization, metric extraction, calculations, etc.
